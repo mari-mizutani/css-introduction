@@ -1,0 +1,60 @@
+body {
+    text-align: center;
+}
+
+.table{
+    display: inline-block;
+    width: 300px;
+    margin: 0 auto;
+}
+
+table{
+    text-align: center;
+}
+
+th, td{
+    text-align: left;
+}   
+
+.hobby{
+    margin-top: 40px;
+    text-align:center;
+}
+
+.hobby h3{
+    margin:0px;
+    padding:0px;
+}
+
+.hobby-ul{
+    display: inline-block;
+    text-align: center;
+}
+
+li{
+    text-align: left;
+}
+
+.interest, .story{
+    margin-top:40px;
+}
+
+.story h5{
+    margin-top:5px;
+    margin-bottom:0px;
+}
+
+.tldr{
+    line-height: 0em;
+}
+
+.pages{
+    margin-top:80px;
+}
+
+.border{
+    border-bottom: solid 1px #d4d4d4d8;
+    margin-top:40px;
+    margin-left:10%;
+    margin-right:10%;
+}
